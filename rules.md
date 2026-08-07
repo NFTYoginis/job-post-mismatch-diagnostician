@@ -140,7 +140,13 @@ version is **qualified submissions per week**, against the comparison set's rang
 days open. The pile's composition is a Stage 4 reading, and it comes later.
 
 - Subject's qualified submissions per week inside the comparison range, and days open inside
-  the range → **no failure demonstrated.** Go to Step 5 (null), write the null report, stop.
+  the range → **no failure demonstrated.** The null is your likely finding.
+
+  **Do not stop here.** This screen is coarse. The output contract requires a funnel
+  reconstruction and a demoted-alternatives section, and neither can be written from this screen
+  alone — so run Steps 2 through 6 regardless, and let the null be what the funnel confirms rather
+  than what the screen asserted. A screen that terminates cannot be corrected by anything
+  downstream of it, which is the whole reason the downstream exists.
 - Subject at or below the bottom of the range → a real failure. Continue.
 - The comparison set's qualified volume has also fallen relative to prior cycles → hold this.
   It is the strongest null signal and you will test it properly at Step 5.
