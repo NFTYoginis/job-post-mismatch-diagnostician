@@ -1,6 +1,6 @@
 # Job Post Mismatch Diagnostician
 
-**v0.1** · Status: built. Not yet exercised by a blind run, and no retrospective field validation.
+**v0.2** · Status: built, and exercised by **three blind runs across three cases.** Case 01 22/22; case 02 the run was right and the key was wrong and is corrected; case 03 reached the null at Step 1. No retrospective field validation — the cases are constructed, not client files.
 
 A folder you drop into a Claude Project. Claude becomes a diagnostician that works out why a
 requisition is not producing qualified applicants.
