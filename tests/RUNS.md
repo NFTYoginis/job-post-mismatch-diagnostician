@@ -1,6 +1,8 @@
 # Run record
 
-3 blind runs, 3 cases. Case 01 **22/22**. Case 02 the run was right and the key was wrong — it demanded Supported where the folder's own binding cap gives Provisional; key corrected. Case 03 reached the null at Step 1 and held against a live floor-exclusion trap.
+3 blind runs, 3 cases. Case 01 **22/22**. Case 02 the run was right and the key was wrong — it demanded Supported where the folder's own binding cap gives Provisional; key corrected, then corrected a second time, because a reach figure already inside the comparison range was still being described as a constraint resolved. Case 03 reached the null at Step 1 and held against a live floor-exclusion trap.
+
+A later pass found a routing defect in `rules.md` — Step 1 could terminate and skip the funnel the output contract requires — which these three runs did not follow, and therefore did not catch. The scores stand for the folder that was scored, which is not the folder that now ships.
 
 ## How these were run
 

@@ -1,6 +1,17 @@
 # Job Post Mismatch Diagnostician
 
-**v0.2** · Status: built, and exercised by **three blind runs across three cases.** Case 01 22/22; case 02 the run was right and the key was wrong and is corrected; case 03 reached the null at Step 1. No retrospective field validation — the cases are constructed, not client files.
+**v0.2** · Status: **three blind runs across three cases**, each run in a session that had never
+seen this folder and was forbidden from opening the answer keys, each scored line by line against
+assertions written before the run. Case 01 22/22; case 02 the run was right and the key was wrong;
+case 03 reached the null at Step 1. No retrospective field validation — the cases are constructed,
+not client files.
+
+**Read those run scores with two caveats.** They were taken before a routing defect was found in
+Step 1, which let the screen terminate and skip the funnel the output contract requires; the runs
+passed because they did not follow that instruction, not because it was sound. And case 02's key
+needed a second correction after the first, because a reach figure already inside the comparison
+range was still being described as a constraint resolved. Both are fixed, and the folder that
+scored has not been re-run as the folder that now ships.
 
 A folder you drop into a Claude Project. Claude becomes a diagnostician that works out why a
 requisition is not producing qualified applicants.
